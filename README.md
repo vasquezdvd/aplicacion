@@ -31,6 +31,5 @@ El formulario esta contituido por tres ventanas de flujo las cuales se explicara
     En esta ultima venta se muestran etiquetas con la informacion  de nombre, apellido, fecha de nacimiento, direccion 1 y direccion 2 
      
     
-    
-4. 
+
   
